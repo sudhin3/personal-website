@@ -1,0 +1,39 @@
+body{
+margin: 0px;
+}
+#a1{
+    height: 600px;
+}
+.c1{
+    height: 600px;
+}
+#about-main{
+    height: 700px;
+    text-align: center;
+}
+#about-txt{
+    font-size:20px;
+    color: grey;   
+}
+#img-me{
+    width:500px;
+    height:500px;
+    border-radius: 30px;
+}
+#j3{
+    font-family: 'Bowlby One SC', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Source Serif Pro', serif;
+}
+#a1{
+    font-family: 'Bowlby One SC', cursive;
+font-family: 'Edu NSW ACT Foundation', cursive;
+font-family: 'Source Serif Pro', serif;
+}
+#proj{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    
+}
+
+
